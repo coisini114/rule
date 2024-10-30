@@ -1,8 +1,4 @@
-DOMAIN-SUFFIX,vi.niceduck.lol
-DOMAIN-SUFFIX,cfloacl.emby.moe
-DOMAIN-SUFFIX,cfloacl2.emby.moe
-DOMAIN-SUFFIX,loacl.emby.moe
-DOMAIN-SUFFIX,loacl2.emby.moe
+
 
 #终点站
 DOMAIN-SUFFIX,pub1.emby.wtf
@@ -23,3 +19,8 @@ DOMAIN-SUFFIX,dpxcf.niceduck.lol
 
 #垃圾影音
 DOMAIN-SUFFIX,cf.niceduck.lol
+DOMAIN-SUFFIX,vi.niceduck.lol
+DOMAIN-SUFFIX,cfloacl.emby.moe
+DOMAIN-SUFFIX,cfloacl2.emby.moe
+DOMAIN-SUFFIX,loacl.emby.moe
+DOMAIN-SUFFIX,loacl2.emby.moe
