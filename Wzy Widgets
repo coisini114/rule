@@ -65,6 +65,32 @@
       "author": "Evan",
       "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
     },
-    
+    {
+      "id": "ti.bemarkt.vod.maccms",
+      "title": "VOD",
+      "description": "获取 VOD 影视数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
+    },
+    {
+      "id": "movie_paradise",
+      "title": "在线影院",
+      "description": "获取在线电影、电视剧、动漫、综艺和短剧",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/MovieParadise.js"
+    },
+    {
+      "id": "tv_live",
+      "title": "电视台",
+      "description": "获取热门电视直播频道",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
+    }
   ]
 }
