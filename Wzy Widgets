@@ -1,8 +1,7 @@
 {
   "title": "Wzy widgets",
   "description": "汇集豆瓣、TMDB、IMDB、猫眼和Bangumi的各类榜单",
-  "icon": "https://raw.githubusercontent.com/quantumultxx/FW-Widgets/refs/heads/main/icon/icon2.PNG",
-  "widgets": [
+  "icon": "https://raw.githubusercontent.com/InchStudio/ForwardWidgets/refs/heads/master/icon.png": [
     {
       "id": "forward.combined.media.lists",
       "title": "影视榜单",
