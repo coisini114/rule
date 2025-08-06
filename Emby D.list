@@ -1,3 +1,7 @@
+#emby服直连
+
+
+
 #YounoPlus
 DOMAIN-SUFFIX,younoyes.com
 
@@ -5,5 +9,15 @@ DOMAIN-SUFFIX,younoyes.com
 DOMAIN-SUFFIX,uhdnow.com
 
 #Zox
-DOMAIN-SUFFIX,embylife.xyz
+DOMAIN-SUFFIX,3767483.xyz
 
+#KFC
+DOMAIN-SUFFIX,kfc.v50.su
+DOMAIN-SUFFIX,emby.v50.su
+DOMAIN-SUFFIX,cdn.v50.su
+
+#STAR
+DOMAIN-SUFFIX,staryuki.me
+
+#Shrek
+DOMAIN,public.shrekmedia.org
